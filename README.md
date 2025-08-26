@@ -70,7 +70,7 @@ Responsive Design | Mobile-first Development | UI Animations | Async State Manag
 | Project | Description | Live / Repo |
 | ------- | ----------- | ----------- |
 | 🏠 **Portfolio Website** | Personal portfolio, fully responsive | [Live](https://balaj-maqbool.vercel.app/) / [Repo](https://github.com/balaj-maqbool/portfolio) |
-| 🛒 **BNN’s E-commerce App** | React + Tailwind online store with cart & login/signup | [Live](https://my-e-commerce-store-phi.vercel.app/) / [Repo](https://github.com/balaj-maqbool/bnn-ecommerce) |
+| 🛒 **BNN’s E-commerce App** | React + Tailwind online store with cart & login/signup | [Live](https://my-e-commerce-store-phi.vercel.app/) / [Repo](https://github.com/Balaj-Maqbool/Appverse-Assignments/tree/main/simple-e-commerce-project) |
 | 🎓 **GPA/CGPA Calculator** | Dynamic academic score calculator | [Live](https://gpa-cgpa-calculator-by-balaj-maqbool.vercel.app/) / [Repo](https://github.com/balaj-maqbool/gpa-cgpa-calculator) |
 | 📺 **VideTube** | Full MERN stack video sharing & streaming app | [Repo](https://github.com/Balaj-Maqbool/videoTube-A-MERN-stack-project) |
 ---
