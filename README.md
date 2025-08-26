@@ -27,7 +27,7 @@
 ### 📫 Connect With Me
 
 - 📧 [Email: balajmaqbool54@gmail.com](mailto:balajmaqbool54@gmail.com)
-- 🌐 [Portfolio Website](https://balaj-maqbool-portfolio.vercel.app/)
+- 🌐 [Portfolio Website](https://balaj-maqbool.vercel.app/)
 - 💼 [LinkedIn](https://linkedin.com/in/balaj-maqbool)
 - 💬 [WhatsApp](https://wa.me/923252624261)
 - 🖥️ [GitHub](https://github.com/balaj-maqbool)
